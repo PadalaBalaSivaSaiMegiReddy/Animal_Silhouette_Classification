@@ -1,2 +1,7 @@
-# Animal_Silhouette_Classification
-The given project involves creating black-and-white binary silhouette mask images of Animal Image Dataset from Kaggle which consists of 5400 images from 90 different animal classes and classifying them correctly. 
+# Animal-Silhouette-Classification
+Finds which animal is in the image from its silhouette
+
+You will have to first download and extract images dataset from
+https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/code?resource=download
+
+Also have modules- cv2, matplotlib, numpy, pytorch installed.
